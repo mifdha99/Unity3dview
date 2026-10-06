@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Unity 3D Viewer</string>
+    <string name="tagline">OPEN → IMPORT → PARSE → VIEW 3D</string>
+    <string name="err_unsupported_format">Format ini belum didukung.</string>
+    <string name="err_corrupted_file">File tidak dapat dibaca atau kemungkinan rusak.</string>
+    <string name="warn_missing_texture">Model berhasil dibuka, tetapi beberapa texture tidak ditemukan.</string>
+    <string name="err_out_of_memory">Ukuran model terlalu besar untuk kapasitas RAM perangkat saat ini.</string>
+    <string name="tab_open_file">OPEN FILE</string>
+    <string name="tab_open_folder">OPEN FOLDER</string>
+    <string name="tab_recent">RECENT</string>
+    <string name="tab_settings">SETTINGS</string>
+    <string name="btn_reset_view">RESET VIEW</string>
+    <string name="btn_export_model">EXPORT MODEL (GLB)</string>
+</resources>

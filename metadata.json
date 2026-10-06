@@ -1,0 +1,6 @@
+{
+  "name": "Unity 3D Viewer",
+  "description": "Standalone Android 3D asset viewer, importer, and .unitypackage / Unity project inspector with interactive OpenGL ES rendering and GLB export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
